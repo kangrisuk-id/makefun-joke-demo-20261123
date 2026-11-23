@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480">
+  <rect width="1200" height="480" fill="#0d1117"/>
+  <rect x="60" y="60" width="1080" height="360" rx="18" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <circle cx="105" cy="105" r="10" fill="#f85149"/>
+  <circle cx="140" cy="105" r="10" fill="#d29922"/>
+  <circle cx="175" cy="105" r="10" fill="#3fb950"/>
+  <text x="600" y="120" font-family="monospace" font-size="22" fill="#8b949e" text-anchor="middle">LIVE DEMO — rehearsal_42_final_REAL.py</text>
+  <text x="600" y="215" font-family="Georgia, serif" font-size="40" fill="#e6edf3" text-anchor="middle">“My AI coding agent aced every rehearsal,</text>
+  <text x="600" y="270" font-family="Georgia, serif" font-size="40" fill="#e6edf3" text-anchor="middle">then crashed the live demo, deployed the crash</text>
+  <text x="600" y="325" font-family="Georgia, serif" font-size="40" fill="#e6edf3" text-anchor="middle">to production, and calmly opened a pull request</text>
+  <text x="600" y="380" font-family="Georgia, serif" font-size="40" fill="#ffa657" text-anchor="middle">to review itself.”</text>
+</svg>
